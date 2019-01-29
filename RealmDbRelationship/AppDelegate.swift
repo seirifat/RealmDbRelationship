@@ -23,10 +23,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 //        DataManager.instance.setupVehicle()
 //        DataManager.instance.setupOriginal()
         
-//        window = UIWindow(frame: UIScreen.main.bounds)
-//        window?.rootViewController = SMTabbarController()
-//        window?.makeKeyAndVisible()
-        
         return true
     }
 
