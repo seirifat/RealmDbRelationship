@@ -1,0 +1,85 @@
+[
+    {
+        "id" : "C-1121",
+        "name" : "SAKURA FILTER C-1121",
+        "type" : "Oil Filter",
+        "vehicles" : [
+            {
+                "id" : 1,
+                "segment" : "HEAVY EQUIPMENT",
+                "name" : "ALBARET Isopactor M6",
+                "manufacturer" : "ALBARET",
+                "engine_series" : "Renault 798"
+            },
+            {
+                "id" : 2,
+                "segment" : "AUTOMOTIVE",
+                "name" : "ALFA ROMEO 2600 1964 - 1970",
+                "manufacturer" : "ALFA ROMEO",
+                "engine_series" : "6 CYL. 2.6L CARBURETOR DOHC 12V"
+            },
+            {
+                "id" : 3,
+                "segment" : "HEAVY EQUIPMENT",
+                "name" : "ALLIS CHALMERS D10",
+                "manufacturer" : "ALLIS CHALMERS",
+                "engine_series" : "NA"
+            }
+        ],
+        "originals" : [
+            {
+                "id" : "15600-25010",
+                "name" : "TOYOTA 15600-25010",
+                "manufacturer" : "TOYOTA"
+            },
+            {
+                "id" : "4130 046",
+                "name" : "FORD 4130 046",
+                "manufacturer" : "FORD"
+            },
+            {
+                "id" : "53020311",
+                "name" : "CHRYSLER 53020311",
+                "manufacturer" : "CHRYSLER"
+            },
+            {
+                "id" : "74511629",
+                "name" : "FIAT 74511629",
+                "manufacturer" : "FIAT"
+            }
+        ]
+    },
+    {
+        "id" : "C-1122",
+        "name" : "SAKURA FILTER C-1122",
+        "type" : "Oil Filter",
+        "vehicles" : [
+            {
+                "id" : 1,
+                "segment" : "HEAVY EQUIPMENT",
+                "name" : "ALBARET Isopactor M6",
+                "manufacturer" : "ALBARET",
+                "engine_series" : "Renault 798"
+            },
+            {
+                "id" : 3,
+                "segment" : "HEAVY EQUIPMENT",
+                "name" : "ALLIS CHALMERS D10",
+                "manufacturer" : "ALLIS CHALMERS",
+                "engine_series" : "NA"
+            }
+        ],
+        "originals" : [
+            {
+                "id" : "53020311",
+                "name" : "CHRYSLER 53020311",
+                "manufacturer" : "CHRYSLER"
+            },
+            {
+                "id" : "74511629",
+                "name" : "FIAT 74511629",
+                "manufacturer" : "FIAT"
+            }
+        ]
+    }
+]
